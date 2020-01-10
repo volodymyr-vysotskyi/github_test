@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Setup reposetory',
+          'Setup repository',
           style: TextStyle(color: Colors.blue),
         ),
         backgroundColor: Colors.white,
